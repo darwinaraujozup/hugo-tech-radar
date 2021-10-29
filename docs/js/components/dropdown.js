@@ -9,7 +9,7 @@
     const handleItemChange = (e) => {
       const { value } = e.target.dataset;
 
-      location.href = value.replace('/', '');
+      location.href =  value;
     }
 
     $(document).keydown(function (e) {
