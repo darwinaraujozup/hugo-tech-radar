@@ -2,7 +2,7 @@ baseURL = "/"
 
 title = "Tech Radar - Opensource - Zup I.T"
 
-publishDir = "docs"
+publishDir = "docs" 
 
 relativeURLs = true
 canonifyURLs = true
