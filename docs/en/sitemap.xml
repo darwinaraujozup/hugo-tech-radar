@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>/rings/strategic/</loc>
+  </url>
+  
+  <url>
+    <loc>/rings/essential/</loc>
+  </url>
+  
+  <url>
+    <loc>/radar/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/rings/potential/</loc>
+  </url>
+  
+  <url>
+    <loc>/rings/deprecated/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/allure/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/go/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/gorilla-mux/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/gorm/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/groovy/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/java/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/junit-4/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/junit/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/quarkus/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/react/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/spock/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/spring/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/swift/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/typescript/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/android/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/bucket-s3/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/docker/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/elasticsearch/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/envoy/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/github/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/ingress/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/ios/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/istio/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/keycloak/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/mongodb/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/nodejs/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/postgresql/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/prometheus/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/rabbitmq/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/redis/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/swagger/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/vcluster/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/c4-model/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/cdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/clean-architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/ddd/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/grpc/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/microservices/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/okr/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/server-driven-ui/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/six-pagers/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/tdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/casbin/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/chai/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/codecov/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/dependabot/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/git/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/gitguardian/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/github-action/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/github-app-dco/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/graalvm/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/helm/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/intellij/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/kubectl/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/maven/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/npm/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/supertest/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/vscode/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/yarn/</loc>
+  </url>
+  
+  <url>
+    <loc>/rings/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/bdd/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/csv/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/kotlin/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/languages-frameworks/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/platforms/</loc>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/techniques/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/tools/</loc>
+  </url>
+  
+</urlset>

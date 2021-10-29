@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Swift",
+  "image" : "/images/languages-frameworks/swift.png",
+  "category" : "Languages-Frameworks",
+  "description" : "<no value>",
+  "ring" : "Strategic",
+  "permalink" : "/categories/languages-frameworks/swift/",
+  "related": [
+    
+    
+      {
+        "name": "React",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/react.png",
+        "permalink" : "/categories/languages-frameworks/react/"
+      },
+    
+      {
+        "name": "Spock",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/java.png",
+        "permalink" : "/categories/languages-frameworks/spock/"
+      },
+    
+      {
+        "name": "Android",
+        "ring": "Strategic",
+        "image": "/images/platforms/android.png",
+        "permalink" : "/categories/platforms/android/"
+      },
+    
+    {}
+  ]
+} 
+}

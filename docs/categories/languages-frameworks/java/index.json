@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Java",
+  "image" : "/images/languages-frameworks/java.png",
+  "category" : "Languages-Frameworks",
+  "description" : "<no value>",
+  "ring" : "Essential",
+  "permalink" : "/categories/languages-frameworks/java/",
+  "related": [
+    
+    
+      {
+        "name": "JUnit 5",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/junit-5.png",
+        "permalink" : "/categories/languages-frameworks/junit/"
+      },
+    
+      {
+        "name": "Quarkus",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/quarkus.png",
+        "permalink" : "/categories/languages-frameworks/quarkus/"
+      },
+    
+      {
+        "name": "Spring",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/spring.png",
+        "permalink" : "/categories/languages-frameworks/spring/"
+      },
+    
+    {}
+  ]
+} 
+}

@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Go",
+  "image" : "/images/languages-frameworks/go.png",
+  "category" : "Languages-Frameworks",
+  "description" : "<no value>",
+  "ring" : "Potential",
+  "permalink" : "/categories/languages-frameworks/go/",
+  "related": [
+    
+    
+      {
+        "name": "Allure",
+        "ring": "Potential",
+        "image": "/images/languages-frameworks/allure.png",
+        "permalink" : "/categories/languages-frameworks/allure/"
+      },
+    
+      {
+        "name": "C4 model",
+        "ring": "Potential",
+        "image": "/images/techniques/c4-model.png",
+        "permalink" : "/categories/techniques/c4-model/"
+      },
+    
+      {
+        "name": "Cognitive-Driven Development",
+        "ring": "Potential",
+        "image": "/images/techniques/tdd.png",
+        "permalink" : "/categories/techniques/cdd/"
+      },
+    
+    {}
+  ]
+} 
+}

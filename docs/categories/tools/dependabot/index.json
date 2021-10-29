@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "Dependabot",
+  "image" : "/images/tools/dependabot.png",
+  "category" : "Tools",
+  "description" : "<no value>",
+  "ring" : "Strategic",
+  "permalink" : "/categories/tools/dependabot/",
+  "related": [
+    
+    
+      {
+        "name": "React",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/react.png",
+        "permalink" : "/categories/languages-frameworks/react/"
+      },
+    
+      {
+        "name": "Spock",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/java.png",
+        "permalink" : "/categories/languages-frameworks/spock/"
+      },
+    
+      {
+        "name": "Swift",
+        "ring": "Strategic",
+        "image": "/images/languages-frameworks/swift.png",
+        "permalink" : "/categories/languages-frameworks/swift/"
+      },
+    
+    {}
+  ]
+} 
+}

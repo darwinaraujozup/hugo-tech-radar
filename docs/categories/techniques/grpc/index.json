@@ -1,0 +1,36 @@
+{
+  "data" :  {
+  "name": "gRPC",
+  "image" : "/images/techniques/grpc.png",
+  "category" : "Techniques",
+  "description" : "<no value>",
+  "ring" : "Essential",
+  "permalink" : "/categories/techniques/grpc/",
+  "related": [
+    
+    
+      {
+        "name": "Java",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/java.png",
+        "permalink" : "/categories/languages-frameworks/java/"
+      },
+    
+      {
+        "name": "JUnit 5",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/junit-5.png",
+        "permalink" : "/categories/languages-frameworks/junit/"
+      },
+    
+      {
+        "name": "Quarkus",
+        "ring": "Essential",
+        "image": "/images/languages-frameworks/quarkus.png",
+        "permalink" : "/categories/languages-frameworks/quarkus/"
+      },
+    
+    {}
+  ]
+} 
+}
