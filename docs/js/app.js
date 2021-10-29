@@ -292,7 +292,7 @@
       
                       <div class="col-auto">
                         <a href="${item.permalink}">
-                          <img src="${baseURL}/icons/arrow-right-small.svg" alt="Ir" style="float: left; " />
+                          <img src="/${baseURL}/icons/arrow-right-small.svg" alt="Ir" style="float: left; " />
                         </a>
                       </div>
                     </div>
