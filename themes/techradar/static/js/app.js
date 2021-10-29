@@ -277,7 +277,7 @@
                           <div class="col-auto">
                             <div class="pg-single-technologies-related-thumbnail">
                               <a href="${item.permalink}">
-                                <img src="${baseURL + '/' + item.image}" alt="${item.name}"  style="float: left; ">
+                                <img src="/${baseURL + item.image}" alt="${item.name}"  style="float: left; ">
                               </a>
                             </div>
                           </div>
