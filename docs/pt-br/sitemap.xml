@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/pt-br/categories/</loc>
+    <loc>/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://darwinaraujozup.github.io/hugo-tech-radar/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://darwinaraujozup.github.io/hugo-tech-radar/pt-br/categories/"
+                href="/pt-br/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/pt-br/tags/</loc>
+    <loc>/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://darwinaraujozup.github.io/hugo-tech-radar/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://darwinaraujozup.github.io/hugo-tech-radar/pt-br/tags/"
+                href="/pt-br/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/pt-br/</loc>
+    <loc>/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://darwinaraujozup.github.io/hugo-tech-radar/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://darwinaraujozup.github.io/hugo-tech-radar/pt-br/"
+                href="/pt-br/"
                 />
   </url>
   

@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anéis on Tech Radar - Opensource - Zup I.T</title>
-    <link>https://darwinaraujozup.github.io/hugo-tech-radar/rings/</link>
+    <link>/rings/</link>
     <description>Recent content in Anéis on Tech Radar - Opensource - Zup I.T</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://darwinaraujozup.github.io/hugo-tech-radar/rings/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/rings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Strategic</title>
-      <link>https://darwinaraujozup.github.io/hugo-tech-radar/rings/strategic/</link>
+      <link>/rings/strategic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://darwinaraujozup.github.io/hugo-tech-radar/rings/strategic/</guid>
+      <guid>/rings/strategic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Essential</title>
-      <link>https://darwinaraujozup.github.io/hugo-tech-radar/rings/essential/</link>
+      <link>/rings/essential/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://darwinaraujozup.github.io/hugo-tech-radar/rings/essential/</guid>
+      <guid>/rings/essential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potential</title>
-      <link>https://darwinaraujozup.github.io/hugo-tech-radar/rings/potential/</link>
+      <link>/rings/potential/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://darwinaraujozup.github.io/hugo-tech-radar/rings/potential/</guid>
+      <guid>/rings/potential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deprecated</title>
-      <link>https://darwinaraujozup.github.io/hugo-tech-radar/rings/deprecated/</link>
+      <link>/rings/deprecated/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://darwinaraujozup.github.io/hugo-tech-radar/rings/deprecated/</guid>
+      <guid>/rings/deprecated/</guid>
       <description></description>
     </item>
     

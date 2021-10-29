@@ -5,7 +5,7 @@
   "category" : "Languages-Frameworks",
   "description" : "<no value>",
   "ring" : "Deprecated",
-  "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/groovy/",
+  "permalink" : "/categories/languages-frameworks/groovy/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "GorillaMux",
         "ring": "Deprecated",
         "image": "/images/languages-frameworks/gorila-mux.png",
-        "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/gorilla-mux/"
+        "permalink" : "/categories/languages-frameworks/gorilla-mux/"
       },
     
       {
         "name": "Gorm",
         "ring": "Deprecated",
         "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/gorm/"
+        "permalink" : "/categories/languages-frameworks/gorm/"
       },
     
       {
         "name": "JUnit 4",
         "ring": "Deprecated",
         "image": "/images/languages-frameworks/junit-4.png",
-        "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/junit-4/"
+        "permalink" : "/categories/languages-frameworks/junit-4/"
       },
     
     {}

@@ -5,7 +5,7 @@
   "category" : "Techniques",
   "description" : "<no value>",
   "ring" : "Potential",
-  "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/c4-model/",
+  "permalink" : "/categories/techniques/c4-model/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Allure",
         "ring": "Potential",
         "image": "/images/languages-frameworks/allure.png",
-        "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/allure/"
+        "permalink" : "/categories/languages-frameworks/allure/"
       },
     
       {
         "name": "Go",
         "ring": "Potential",
         "image": "/images/languages-frameworks/go.png",
-        "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/go/"
+        "permalink" : "/categories/languages-frameworks/go/"
       },
     
       {
         "name": "Cognitive-Driven Development",
         "ring": "Potential",
         "image": "/images/techniques/tdd.png",
-        "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/cdd/"
+        "permalink" : "/categories/techniques/cdd/"
       },
     
     {}

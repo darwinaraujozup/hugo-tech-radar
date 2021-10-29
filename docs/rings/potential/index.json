@@ -5,7 +5,7 @@
   "category" : "rings",
   "description" : "Potential Technologies, as the name implies, have many chances of being adopted in current projects or in future engagements. For this, it is necessary to carry out studies and tests.",
   "ring" : "<no value>",
-  "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/rings/potential/",
+  "permalink" : "/rings/potential/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/docs/"
+        "permalink" : "/docs/"
       },
     
       {
         "name": "Strategic",
         "ring": "<no value>",
         "image": "images/rings/strategic.png",
-        "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/rings/strategic/"
+        "permalink" : "/rings/strategic/"
       },
     
       {
         "name": "Essential",
         "ring": "<no value>",
         "image": "images/rings/essential.png",
-        "permalink" : "https://darwinaraujozup.github.io/hugo-tech-radar/rings/essential/"
+        "permalink" : "/rings/essential/"
       },
     
     {}
