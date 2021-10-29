@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/pt-br/categories/</loc>
+    <loc>https://darwinaraujozup.github.io/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://darwinaraujozup.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/categories/"
+                href="https://darwinaraujozup.github.io/pt-br/categories/"
                 />
   </url>
   
   <url>
-    <loc>/pt-br/tags/</loc>
+    <loc>https://darwinaraujozup.github.io/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://darwinaraujozup.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/"
+                href="https://darwinaraujozup.github.io/pt-br/tags/"
                 />
   </url>
   
   <url>
-    <loc>/pt-br/</loc>
+    <loc>https://darwinaraujozup.github.io/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://darwinaraujozup.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/"
+                href="https://darwinaraujozup.github.io/pt-br/"
                 />
   </url>
   

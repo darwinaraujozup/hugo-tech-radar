@@ -5,7 +5,7 @@
   "category" : "Languages-Frameworks",
   "description" : "<no value>",
   "ring" : "Essential",
-  "permalink" : "/categories/languages-frameworks/junit/",
+  "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/junit/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Java",
         "ring": "Essential",
         "image": "/images/languages-frameworks/java.png",
-        "permalink" : "/categories/languages-frameworks/java/"
+        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/java/"
       },
     
       {
         "name": "Quarkus",
         "ring": "Essential",
         "image": "/images/languages-frameworks/quarkus.png",
-        "permalink" : "/categories/languages-frameworks/quarkus/"
+        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/quarkus/"
       },
     
       {
         "name": "Spring",
         "ring": "Essential",
         "image": "/images/languages-frameworks/spring.png",
-        "permalink" : "/categories/languages-frameworks/spring/"
+        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/spring/"
       },
     
     {}

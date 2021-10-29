@@ -5,7 +5,7 @@
   "category" : "Platforms",
   "description" : "<no value>",
   "ring" : "Strategic",
-  "permalink" : "/categories/platforms/redis/",
+  "permalink" : "https://darwinaraujozup.github.io/categories/platforms/redis/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "React",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/react.png",
-        "permalink" : "/categories/languages-frameworks/react/"
+        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/react/"
       },
     
       {
         "name": "Spock",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/java.png",
-        "permalink" : "/categories/languages-frameworks/spock/"
+        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/spock/"
       },
     
       {
         "name": "Swift",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/swift.png",
-        "permalink" : "/categories/languages-frameworks/swift/"
+        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/swift/"
       },
     
     {}

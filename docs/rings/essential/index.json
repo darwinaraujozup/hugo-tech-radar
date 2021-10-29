@@ -5,7 +5,7 @@
   "category" : "rings",
   "description" : "The technologies in this ring have been tested but are not fully mature. The teams that use it need training and/or experience to ensure the project's success.",
   "ring" : "<no value>",
-  "permalink" : "/rings/essential/",
+  "permalink" : "https://darwinaraujozup.github.io/rings/essential/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "/docs/"
+        "permalink" : "https://darwinaraujozup.github.io/docs/"
       },
     
       {
         "name": "Strategic",
         "ring": "<no value>",
         "image": "images/rings/strategic.png",
-        "permalink" : "/rings/strategic/"
+        "permalink" : "https://darwinaraujozup.github.io/rings/strategic/"
       },
     
       {
         "name": "<no value>",
         "ring": "<no value>",
         "image": "<no value>",
-        "permalink" : "/radar/"
+        "permalink" : "https://darwinaraujozup.github.io/radar/"
       },
     
     {}

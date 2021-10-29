@@ -5,7 +5,7 @@
   "category" : "Languages-Frameworks",
   "description" : "<no value>",
   "ring" : "Potential",
-  "permalink" : "/categories/languages-frameworks/go/",
+  "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/go/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "Allure",
         "ring": "Potential",
         "image": "/images/languages-frameworks/allure.png",
-        "permalink" : "/categories/languages-frameworks/allure/"
+        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/allure/"
       },
     
       {
         "name": "C4 model",
         "ring": "Potential",
         "image": "/images/techniques/c4-model.png",
-        "permalink" : "/categories/techniques/c4-model/"
+        "permalink" : "https://darwinaraujozup.github.io/categories/techniques/c4-model/"
       },
     
       {
         "name": "Cognitive-Driven Development",
         "ring": "Potential",
         "image": "/images/techniques/tdd.png",
-        "permalink" : "/categories/techniques/cdd/"
+        "permalink" : "https://darwinaraujozup.github.io/categories/techniques/cdd/"
       },
     
     {}
