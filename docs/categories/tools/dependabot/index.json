@@ -5,7 +5,7 @@
   "category" : "Tools",
   "description" : "<no value>",
   "ring" : "Strategic",
-  "permalink" : "https://darwinaraujozup.github.io/categories/tools/dependabot/",
+  "permalink" : "/categories/tools/dependabot/",
   "related": [
     
     
@@ -13,21 +13,21 @@
         "name": "React",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/react.png",
-        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/react/"
+        "permalink" : "/categories/languages-frameworks/react/"
       },
     
       {
         "name": "Spock",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/java.png",
-        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/spock/"
+        "permalink" : "/categories/languages-frameworks/spock/"
       },
     
       {
         "name": "Swift",
         "ring": "Strategic",
         "image": "/images/languages-frameworks/swift.png",
-        "permalink" : "https://darwinaraujozup.github.io/categories/languages-frameworks/swift/"
+        "permalink" : "/categories/languages-frameworks/swift/"
       },
     
     {}
