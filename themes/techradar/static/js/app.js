@@ -255,7 +255,7 @@
           try {
             const response = await $.ajax(`${id}/index.json`);
 
-            $('#pg-radar-modal-thumbnail').attr('src', response.data.image);
+            $('#pg-radar-modal-thumbnail').attr('src', `/${baseURL + response.data.image}`);
             $('#pg-radar-modal-title').text(response.data.name);
             $('#pg-radar-modal-description').text(response.data.description);
             $('#pg-radar-modal-ring').text(response.data.ring);
