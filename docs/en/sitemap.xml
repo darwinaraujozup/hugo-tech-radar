@@ -3,357 +3,357 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/docs/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/docs/</loc>
   </url>
   
   <url>
-    <loc>/rings/strategic/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/rings/strategic/</loc>
   </url>
   
   <url>
-    <loc>/rings/essential/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/rings/essential/</loc>
   </url>
   
   <url>
-    <loc>/radar/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/radar/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/about/</loc>
   </url>
   
   <url>
-    <loc>/rings/potential/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/rings/potential/</loc>
   </url>
   
   <url>
-    <loc>/rings/deprecated/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/rings/deprecated/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/allure/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/allure/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/go/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/go/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/gorilla-mux/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/gorilla-mux/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/gorm/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/gorm/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/groovy/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/groovy/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/java/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/java/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/junit-4/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/junit-4/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/junit/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/junit/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/quarkus/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/quarkus/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/react/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/react/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/spock/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/spock/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/spring/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/spring/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/swift/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/swift/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/typescript/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/typescript/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/android/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/android/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/bucket-s3/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/bucket-s3/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/docker/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/docker/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/elasticsearch/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/elasticsearch/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/envoy/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/envoy/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/github/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/github/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/ingress/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/ingress/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/ios/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/ios/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/istio/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/istio/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/keycloak/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/keycloak/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/kubernetes/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/kubernetes/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/mongodb/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/mongodb/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/nodejs/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/nodejs/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/postgresql/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/postgresql/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/prometheus/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/prometheus/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/rabbitmq/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/rabbitmq/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/redis/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/redis/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/swagger/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/swagger/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/vcluster/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/vcluster/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/c4-model/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/c4-model/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/cdd/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/cdd/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/clean-architecture/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/clean-architecture/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/ddd/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/ddd/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/grpc/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/grpc/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/microservices/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/microservices/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/okr/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/okr/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/server-driven-ui/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/server-driven-ui/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/six-pagers/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/six-pagers/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/tdd/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/tdd/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/casbin/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/casbin/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/chai/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/chai/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/codecov/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/codecov/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/dependabot/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/dependabot/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/git/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/git/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/gitguardian/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/gitguardian/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/github-action/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/github-action/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/github-app-dco/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/github-app-dco/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/graalvm/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/graalvm/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/helm/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/helm/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/hugo/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/hugo/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/intellij/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/intellij/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/kubectl/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/kubectl/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/maven/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/maven/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/npm/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/npm/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/supertest/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/supertest/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/vscode/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/vscode/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/yarn/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/yarn/</loc>
   </url>
   
   <url>
-    <loc>/rings/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/rings/</loc>
   </url>
   
   <url>
-    <loc>/categories/techniques/bdd/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/bdd/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/categories/"
+                href="https://darwinaraujozup.github.io/hugo-tech-radar/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://darwinaraujozup.github.io/hugo-tech-radar/categories/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/</loc>
   </url>
   
   <url>
-    <loc>/csv/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/csv/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/kotlin/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/kotlin/</loc>
   </url>
   
   <url>
-    <loc>/categories/languages-frameworks/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/languages-frameworks/</loc>
   </url>
   
   <url>
-    <loc>/categories/platforms/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/</loc>
   </url>
   
   <url>
-    <loc>/search/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/search/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/"
+                href="https://darwinaraujozup.github.io/hugo-tech-radar/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://darwinaraujozup.github.io/hugo-tech-radar/tags/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/"
+                href="https://darwinaraujozup.github.io/hugo-tech-radar/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://darwinaraujozup.github.io/hugo-tech-radar/"
                 />
   </url>
   
   <url>
-    <loc>/categories/techniques/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/techniques/</loc>
   </url>
   
   <url>
-    <loc>/categories/tools/</loc>
+    <loc>https://darwinaraujozup.github.io/hugo-tech-radar/categories/tools/</loc>
   </url>
   
 </urlset>

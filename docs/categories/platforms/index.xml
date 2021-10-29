@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Platforms on Tech Radar - Opensource - Zup I.T</title>
-    <link>/categories/platforms/</link>
+    <link>https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/</link>
     <description>Recent content in Platforms on Tech Radar - Opensource - Zup I.T</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/categories/platforms/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://darwinaraujozup.github.io/hugo-tech-radar/categories/platforms/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
