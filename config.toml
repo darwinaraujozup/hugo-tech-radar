@@ -1,0 +1,63 @@
+baseURL = "/"
+
+title = "Tech Radar - Opensource - Zup I.T"
+
+publishDir = "docs"
+
+relativeURLs = true
+canonifyURLs = true
+
+theme = ["techradar"]
+
+[outputs]
+    page = ["html", "json"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+offlineSearchMaxResults = 7
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    weight = 10
+
+  [[languages.en.menu.main]]
+    name = "Documentation"
+    weight = 1
+    url = "/docs"
+  
+  [[languages.en.menu.main]]
+    name = "Radar"
+    weight = 2
+    url = "/radar"
+
+    [[languages.en.menu.main]]
+    name = "About"
+    weight = 3
+    url = "/about"
+
+  [languages.pt-BR]
+    contentDir = 'content/pt-br'
+    languageName = 'Português'
+    weight = 20
+
+    [[languages.pt-BR.menu.main]]
+    name = "Documentação"
+    weight = 1
+    url = "/docs"
+  
+    [[languages.pt-BR.menu.main]]
+      name = "Radar"
+      weight = 2
+      url = "/radar"
+
+      [[languages.pt-BR.menu.main]]
+      name = "Sobre"
+      weight = 3
+      url = "/about"
+

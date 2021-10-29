@@ -1,0 +1,20 @@
+{
+  "name": "{{ .Params.name }}",
+  "image" : "{{ .Params.image }}",
+  "category" : "{{ .Params.category }}",
+  "description" : "{{ .Params.description }}",
+  "ring" : "{{ .Params.ring }}",
+  "permalink" : "{{ .Permalink }}",
+  "related": [
+    {{ $relateds := where (where .Site.Pages "Params.ring" .Params.ring) "Params.name" "!=" .Params.Name }}
+    {{ range $related := first 3 $relateds }}
+      {
+        "name": "{{ $related.Params.Name }}",
+        "ring": "{{ $related.Params.Ring }}",
+        "image": "{{ $related.Params.Image }}",
+        "permalink" : "{{ $related.Permalink }}"
+      },
+    {{end}}
+    {}
+  ]
+}

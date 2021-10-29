@@ -1,0 +1,25 @@
+<header class="sc-header">
+  <div class="wrapper">
+     <div class="container-fluid gx-0">
+      <div class="row align-items-center justify-content-between">
+        <div class="col-auto">
+          <a href="{{ .Site.Home.RelPermalink }}">
+            <img src="/logos/tech-radar.svg" alt="Tech Radar | Zup I.T" style="float: left;">
+          </a>
+        </div>
+
+        <div class="col-auto">
+          <div class="row align-items-center justify-content-between">
+            <div class="col-auto">
+              {{ partial "navbar.html" . }}
+            </div>
+
+            <div class="col-auto ms-5">
+              {{ partial "navbar-lang-selector.html" . }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>

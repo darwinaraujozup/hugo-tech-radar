@@ -1,0 +1,98 @@
+[ui_search_input_placeholder]
+other = "Pesquisar tecnologia /"
+
+[ui_show_radar_banner_text_line_1]
+other = "Confira o nosso Radar completo e saiba o que você deve"
+
+[ui_show_radar_banner_text_line_2]
+other = "considerar em seus projetos."
+
+[ui_show_radar_button_text]
+other = "Ver radar"
+
+[ui_home_categories_section_title]
+other = "Categorias"
+
+[ui_home_categories_section_description]
+other = "Escolha uma tecnologia estratégica e comece a usar agora mesmo."
+
+[ui_see_all]
+other = "Ver todas"
+
+[ui_home_rings_section_title]
+other = "Anéis"
+
+[ui_home_rings_section_description]
+other = "Os anéis são sinalizadores de sucesso. Quanto mais próximos do centro, melhor é a tecnologia."
+
+[ui_technologies]
+other = "Tecnologias"
+
+[ui_community]
+other = "Comunidade"
+
+[ui_events]
+other = "Eventos"
+
+[ui_forum]
+other = "Fórum"
+
+[ui_privacy_policy]
+other = "Política de Privacidade"
+
+[ui_social_media]
+other = "Redes sociaiss"
+
+[ui_who_we_are]
+other = "Quem somos"
+
+[ui_about_us]
+other = "Sobre nós"
+
+[ui_contact]
+other = "Contato"
+
+[ui_documentation]
+other = "Documentação"
+
+[ui_about]
+other = "Sobre"
+
+[ui_rings]
+other = "Anéis"
+
+[ui_see_more]
+other = "Ver mais"
+
+[ui_see_less]
+other = "Ver menos"
+
+[ui_techniques]
+other = "Técnicas"
+
+[ui_tools]
+other = "Ferramentas"
+
+[ui_languages_and_frameworks]
+other = "Linguagens e Frameworks"
+
+[ui_services]
+other = "Serviços"
+
+[ui_new]
+other = "Novo"
+
+[ui_updated]
+other = "Atualizado"
+
+[ui_no_update]
+other = "Sem atualização"
+
+[ui_also_use]
+other = "Use também"
+
+[ui_back_to_radar_button]
+other = "Voltar para o radar"
+
+[home_welcome_text]
+other = "Acompanhe as últimas tendências tecnológicas com o nosso radar open source."

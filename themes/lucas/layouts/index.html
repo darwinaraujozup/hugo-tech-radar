@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+
+<body>
+    {{- partial "header.html" . -}}
+    <main>
+
+        <section id="section-home" class="d-flex align-items-center justify-content-center">
+            <div id="home-content">
+                <h1>Tech Radar</h1>
+                <p>{{ i18n "home.header" }}</p>
+
+                {{- partial "search.html" . -}}
+            </div>
+        </section>
+
+        <div id="widget-show-radar" class="shadow container">
+            <div id="show-radar-content">
+                <div class="row align-items-center">
+                    <div class="col-auto">
+                        <img src="/images/icons/radar.svg" />
+                    </div>
+                    <div class="col">
+                        <p>{{ i18n "home.widget-show-radar.title" }}</p>
+                    </div>
+                    <div class="col-3">
+                        <a href="/radar">{{ i18n "home.widget-show-radar.button" }}</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        {{- partial "categories.html" . -}}
+        {{- partial "rings.html" . -}}
+    </main>
+    </div>
+    {{- partial "footer.html" . -}}
+</body>
+
+</html>

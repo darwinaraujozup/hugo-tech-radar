@@ -1,0 +1,27 @@
+<ul class="cp-breadcrumb">
+  <li class="cp-breadcrumb-item">
+    <a href="{{ .Site.Home.RelPermalink }}">Tech Radar</a>
+  </li>
+
+  {{ .Scratch.Set "permalinkparts" (split .RelPermalink "/") }}
+  {{ range $index, $part := (.Scratch.Get "permalinkparts") }}
+      {{ range $i, $num := (seq 10) }}
+          {{ if ge $index $i }}
+              {{ if eq $i 0 }}
+                  {{ $.Scratch.Set "url" (index ($.Scratch.Get "permalinkparts") $i) }}
+              {{ else }}
+                  {{ $.Scratch.Add "url" (print (index ($.Scratch.Get "permalinkparts") $i) "/") }}
+              {{ end }}
+          {{ end }}
+      {{ end }}
+      
+      {{ if gt (len $part ) 0 }}
+        {{ if not (eq (humanize (replace $part "posts" "blog")) "Pt br") }}
+          <li class="cp-breadcrumb-item">
+            <a href="/{{ $.Scratch.Get "url" }}">{{ humanize (replace $part "posts" "blog") }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+  {{ end }}
+</ul>
+

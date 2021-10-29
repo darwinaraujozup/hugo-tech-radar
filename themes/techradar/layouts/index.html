@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    {{ partial "head.html" . }}
+
+    <title>
+      {{ if .IsHome }}
+        {{ .Site.Title }}
+      {{ else }}
+        {{ with .Title }}{{ . }} | {{ end }}
+        
+        {{ .Site.Title }}
+      {{ end }}
+    </title>
+  </head>
+
+  <body>
+    {{ partial "header.html" . }}
+
+    <section class="sc-welcome">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row justify-content-center">
+            <div class="col-8">
+              <div class="row">
+                <div class="col-12">
+                  <h1 class="sc-welcome-title">Tech Radar</h1>
+
+                  <p class="sc-welcome-description">{{ i18n "home_welcome_text" }}</p>
+                </div>
+              </div>
+
+              <div class="row mt-5">
+                <div class="col-12">
+                  {{ partial "search.html" . }}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sc-banner">
+      <div class="wrapper">
+        <div class="cp-card">
+          <div class="container-fluid gx-0">
+            <div class="row align-items-center justify-content-between">
+              <div class="col-auto">
+                <div class="row align-items-center">
+                  <div class="col-auto">
+                    <img src="/icons/radar.svg" alt="Icone">
+                  </div>
+
+                  <div class="col-auto">
+                    <p>
+                      {{ i18n "ui_show_radar_banner_text_line_1" }} <br />
+                      {{ i18n "ui_show_radar_banner_text_line_2" }}
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-3">
+                <a href="{{ .URL | relLangURL }}radar" class="cp-button">{{i18n "ui_show_radar_button_text"}}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sc-categories">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row justify-content-center">
+            <div class="col-auto">
+              <h2>{{ i18n "ui_home_categories_section_title" }}</h2>
+            </div>
+          </div>
+
+          <div class="row justify-content-center mt-3">
+            <div class="col-auto">
+              <p>{{ i18n "ui_home_categories_section_description" }}</p>
+            </div>
+          </div>
+
+          <div class="row mt-5">
+            {{ range where .Site.Pages "Params.category" "categories" }}
+            <div class="col-3">
+              <div class="cp-card">
+                <div class="row flex-column justify-content-between" style="height: 100%;">
+                  <div class="col-auto">
+                    <div class="row flex-column">
+                      <div class="col-auto">
+                        <img src="{{ .Params.Image }}" alt="Icone">
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <h3>{{ .Params.Title }}</h3>
+                      </div>
+    
+                      <div class="col-12 mt-3">
+                        <ul class="sc-categories-list">
+                          {{ range first 5 (where .Site.Pages "Params.category" .Params.Title) }}
+                          <li class="sc-categories-list-item">
+                            <span>{{ .Params.Name }}</span>
+
+                            <span>
+                              <a href="{{ .URL }}">
+                                <img src="/icons/light-big.svg" alt="Icone">
+                              </a>
+                            </span>
+                          </li>
+                          {{ end }}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-auto mt-3">
+                    <div class="col-12">
+                      <a href="{{ .URL }}" class="sc-categories-all">{{ i18n "ui_see_all" }}</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {{ end }}     
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sc-rings">
+      <div class="wrapper">
+        <div class="container-fluid gx-0">
+          <div class="row justify-content-center">
+            <div class="col-auto">
+              <h2>{{ i18n "ui_home_rings_section_title" }}</h2>
+            </div>
+          </div>
+
+          <div class="row justify-content-center mt-3">
+            <div class="col-auto">
+              <p>{{ i18n "ui_home_rings_section_description" }}</p>
+            </div>
+          </div>
+
+          <div class="row justify-content-between mt-5">
+            <div class="col-4">
+              <div class="cp-card" style="padding: 4px; height: 100%">
+                <div class="cp-rings-card" id="cp-rings-card"></div>
+              </div>
+            </div>
+          
+            <div class="col-7">
+              <div class="row">
+                <div class="col-auto">
+                  <div id="cp-rings-boxes" class="cp-rings-boxes"></div>
+                </div>
+          
+                <div class="col-8">
+                  {{ $rings := where .Site.Pages "Params.category" "rings" }}
+
+                  {{ range $rings }}
+                    <div class="cp-rings-circles-item-data d-none" data-title="{{ .Params.Title }}" data-image="{{ .Params.Image | absURL }}" data-caption="{{ .Params.Description }}"></div>
+                  {{ end }}
+
+                  <div id="cp-rings-circles" class="cp-rings-circles"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </section>
+
+    {{ partial "footer.html" . }}
+
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

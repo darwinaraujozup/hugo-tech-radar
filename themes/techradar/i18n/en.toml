@@ -1,0 +1,98 @@
+[ui_search_input_placeholder]
+other = "Search technology /"
+
+[ui_show_radar_banner_text_line_1]
+other = "Check out our complete Radar and find out what you"
+
+[ui_show_radar_banner_text_line_2]
+other = "should consider in your projects."
+
+[ui_show_radar_button_text]
+other = "See radar"
+
+[ui_home_categories_section_title]
+other = "Categories"
+
+[ui_home_categories_section_description]
+other = "Choose a strategic technology and start using it right away."
+
+[ui_see_all]
+other = "See all"
+
+[ui_home_rings_section_title]
+other = "Rings"
+
+[ui_home_rings_section_description]
+other = "Rings are a sign of success. The closer to the center, the better the technology."
+
+[ui_technologies]
+other = "Technologies"
+
+[ui_community]
+other = "Community"
+
+[ui_events]
+other = "Events"
+
+[ui_forum]
+other = "Forum"
+
+[ui_privacy_policy]
+other = "Privacy Policy"
+
+[ui_social_media]
+other = "Social networks"
+
+[ui_who_we_are]
+other = "Who we are"
+
+[ui_about_us]
+other = "About us"
+
+[ui_contact]
+other = "Contact"
+
+[ui_documentation]
+other = "Documentation"
+
+[ui_about]
+other = "About"
+
+[ui_rings]
+other = "Rings"
+
+[ui_see_more]
+other = "Show"
+
+[ui_see_less]
+other = "Hide"
+
+[ui_techniques]
+other = "Techniques"
+
+[ui_tools]
+other = "Tools"
+
+[ui_languages_and_frameworks]
+other = "Languages and Frameworks"
+
+[ui_services]
+other = "Services"
+
+[ui_new]
+other = "New"
+
+[ui_updated]
+other = "Updated"
+
+[ui_no_update]
+other = "No update"
+
+[ui_also_use]
+other = "Also use"
+
+[ui_back_to_radar_button]
+other = "Back to radar"
+
+[home_welcome_text]
+other = "Keep up with the latest technology trends with our open source radar."
