@@ -229,6 +229,8 @@
     }
 
     function handleRadarModal() {
+      const baseURL = document.location.pathname.split('/')[1];
+
       const relatedContainer = $('#pg-radar-modal-related');
       const modalContainer =  $('.cp-modal');
       const blips = $('.blip-link');
@@ -275,7 +277,7 @@
                           <div class="col-auto">
                             <div class="pg-single-technologies-related-thumbnail">
                               <a href="${item.permalink}">
-                                <img src="${item.image}" alt="${item.name}"  style="float: left; ">
+                                <img src="${baseURL + '/' + item.image}" alt="${item.name}"  style="float: left; ">
                               </a>
                             </div>
                           </div>
@@ -290,7 +292,7 @@
       
                       <div class="col-auto">
                         <a href="${item.permalink}">
-                          <img src="/icons/arrow-right-small.svg" alt="Ir" style="float: left; " />
+                          <img src="${baseURL}/icons/arrow-right-small.svg" alt="Ir" style="float: left; " />
                         </a>
                       </div>
                     </div>
